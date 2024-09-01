@@ -1,5 +1,6 @@
-"use client"
+
 import React, { Component } from 'react'
+
 
 export class learnmore extends Component {
   render() {
