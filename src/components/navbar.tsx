@@ -40,15 +40,7 @@ export function MainNav() {
     >
       <div className="flex justify-between items-center h-16 gap-3 px-5">
         <div className="flex items-center gap-3">
-         <a href="/">
-          {/* <Image
-            src="/logo.png"
-            alt="Logo"
-            width={440}
-            height={40}
-            className="h-15 w-40"
-          /> */}
-          </a>
+        
         </div>
         <div className="hidden md:flex items-center gap-12">
           
