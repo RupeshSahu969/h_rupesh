@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Support",
+      "description": "For any support-related queries, reach us at support@example.com."
+    },
+    {
+      "title": "Sales",
+      "description": "Contact our sales team at sales@example.com."
+    },
+
+    {
+        "title": "Sales",
+        "description": "Contact our sales team at sales@example.com."
+      },
+      {
+        "title": "Sales",
+        "description": "Contact our sales team at sales@example.com."
+      }
+  ]
+  

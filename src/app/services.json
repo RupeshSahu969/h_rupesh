@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Digital Marketing",
+        "description": ["Facbook","Instagram","X (Twitter)","Youtube","Google Ads"]
+    },
+    {
+        "title": "Application Development",
+        "description": ["Mobile Apps","Web Applications","Desktop Applications"]
+    },
+    {
+        "title": "Website & Web Portals",
+        "description": ["Domain Management","Hosting Services","Search Engine Optimization","Content Writing","Email Servers"]
+    },
+    {
+        "title": "Graphical Designs",
+        "description": ["Logo Design","Branding","Complete Brand Guideline"]
+    },
+    {
+        "title": "Data Storage & Cloud Services",
+        "description": ["Local Servers","Cloud Servers","API Development"]
+    },
+    {
+        "title": "Consultancy",
+        "description": ["Networking","Cyber Security","Process Optimisation"]
+    }
+]

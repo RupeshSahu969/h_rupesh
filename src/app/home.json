@@ -1,0 +1,26 @@
+{
+    "slides": [
+      { "src": "/craousel1.png", "alt": "Contact Us Image" },
+      { "src": "/craousel2.png", "alt": "Contact Us Image" },
+      { "src": "/craousel3.png", "alt": "Logo Image" }
+    ],
+    "services": [
+      { "icon": "faCalendarCheck", "text": "Book Appointment", "href": "/bookappointment" },
+      { "icon": "faStethoscope", "text": "Book Health Check-up", "href": "/bookhealthcheckup" },
+      { "icon": "faVideo", "text": "Consult Online", "href": "/consultonline" },
+      { "icon": "faFileMedical", "text": "View Health Records", "href": "/viewhealthrecords" }
+    ],
+    "centers": [
+      { "icon": "faUserMd", "text": "Endocrinology", "href": "/endocrinology" },
+      { "icon": "faXRay", "text": "Radiology", "href": "/radiology" },
+      { "icon": "faVenus", "text": "Gynecology", "href": "/gynecology" },
+      { "icon": "faTooth", "text": "Dentistry", "href": "/dentistry" },
+      { "icon": "faLungs", "text": "Pulmonology", "href": "/pulmonology" },
+      { "icon": "faHeartbeat", "text": "Cardiology", "href": "/cardiology" },
+      { "icon": "faBrain", "text": "Neurology", "href": "/neurology" },
+      { "icon": "faBone", "text": "Orthopedic", "href": "/orthopedic" },
+      { "icon": "faProcedures", "text": "Urology", "href": "/urology" },
+      { "icon": "faProcedures", "text": "Nephrology", "href": "/nephrology" }
+    ]
+  }
+  
